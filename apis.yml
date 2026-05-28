@@ -1,0 +1,32 @@
+aid: azure-devops-health
+name: Azure DevOps Health
+description: "Resource health helps you diagnose and get support when an Azure issue impacts your resources"
+url: https://docs.microsoft.com/en-us/rest/api/resourcehealth
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Continuous Integration"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Continuous Integration
+  - Public APIs
+apis:
+  - name: Azure DevOps Health
+    description: "Resource health helps you diagnose and get support when an Azure issue impacts your resources"
+    humanURL: https://docs.microsoft.com/en-us/rest/api/resourcehealth
+    baseURL: https://docs.microsoft.com/en-us/rest/api/resourcehealth
+    tags:
+      - Continuous Integration
+    properties:
+      - type: Documentation
+        url: https://docs.microsoft.com/en-us/rest/api/resourcehealth
+common:
+  - type: Website
+    url: https://docs.microsoft.com/en-us/rest/api/resourcehealth
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
