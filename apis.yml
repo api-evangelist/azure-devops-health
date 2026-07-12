@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://docs.microsoft.com/en-us/rest/api/resourcehealth
 common:
+  - type: VulnerabilityDisclosure
+    url: security/azure-devops-health-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/azure-devops-health-domain-security.yml
   - type: Website
     url: https://docs.microsoft.com/en-us/rest/api/resourcehealth
   - type: PublicAPIsListing
