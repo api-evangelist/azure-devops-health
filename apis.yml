@@ -40,7 +40,6 @@ apis:
   - name: Azure DevOps Health
     description: "Resource health helps you diagnose and get support when an Azure issue impacts your resources"
     humanURL: https://docs.microsoft.com/en-us/rest/api/resourcehealth
-    baseURL: https://docs.microsoft.com/en-us/rest/api/resourcehealth
     tags:
       - Continuous Integration
     properties:
